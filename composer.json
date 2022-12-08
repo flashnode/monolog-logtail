@@ -1,5 +1,5 @@
 {
-    "name": "logtail/monolog-logtail",
+    "name": "vastamaki/monolog-logtail",
     "description": "Logtail handler for Monolog",
     "homepage": "https://github.com/logtail/logtail-php",
     "type": "library",
@@ -8,8 +8,8 @@
         "log", "logging", "logger", "monolog", "handler", "php"
     ],
     "require": {
-        "php": "^7.3 || ^8",
-        "monolog/monolog": "^2"
+        "php": "^7.2 || ^8",
+        "monolog/monolog": "^3.2"
     },
     "require-dev": {
         "phpunit/phpunit": "^8"

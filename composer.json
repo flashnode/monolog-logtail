@@ -1,5 +1,5 @@
 {
-    "name": "vastamaki/monolog-logtail",
+    "name": "flashnode/monolog-logtail",
     "description": "Logtail handler for Monolog",
     "homepage": "https://github.com/logtail/logtail-php",
     "type": "library",
